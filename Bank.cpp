@@ -474,7 +474,7 @@ void start_thread(){
 			}
 		}
 	}
-	sleep(30);
+	//sleep(30);
 }
 }
 Bank *Bank::instance = 0;
